@@ -7,15 +7,15 @@ jobs:
   auto-update:
     runs-on: ubuntu-latest
     steps:
-    - uses: actions/checkout@master
+    - uses: actions/checkout@main
       with:
         fetch-depth: 0
     - name: Create local changes
       run: |
         ./run.sh
     - name: Commit & Push changes
-      uses: actions-js/push@master
+      uses: actions-js/push@main
       with:
         github_token: ${{ secrets.GITHUB_TOKEN }}
         author_name: p314dO
-        branch: master
+        branch: main
