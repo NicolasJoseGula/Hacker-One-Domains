@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Mon Jan 26 15:38:03 UTC 2026)
+## Domains with Bounties (Last Updated Mon Jan 26 16:39:59 UTC 2026)
 ```
 *.quora.com
 alternativa.film
