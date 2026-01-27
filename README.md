@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Tue Jan 27 09:39:35 UTC 2026)
+## Domains with Bounties (Last Updated Tue Jan 27 10:33:48 UTC 2026)
 ```
 furycloud.io
 kyc-onboarding.booking.com
