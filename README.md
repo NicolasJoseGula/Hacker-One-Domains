@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Tue Jan 27 17:33:24 UTC 2026)
+## Domains with Bounties (Last Updated Tue Jan 27 18:46:00 UTC 2026)
 ```
 firefly.adobe.com
 portal.openbanking.playground.klarna.com
