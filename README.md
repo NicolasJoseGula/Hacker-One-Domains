@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Wed Jan 28 19:33:47 UTC 2026)
+## Domains with Bounties (Last Updated Wed Jan 28 20:37:56 UTC 2026)
 ```
 https://portal.3cx.com
 bal.nba.com
