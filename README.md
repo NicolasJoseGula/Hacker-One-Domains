@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Wed Jan 28 02:08:25 UTC 2026)
+## Domains with Bounties (Last Updated Wed Jan 28 04:10:41 UTC 2026)
 ```
 innersloth.kidswebservices.com
 *.amazon.com.co
