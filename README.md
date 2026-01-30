@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Fri Jan 30 20:38:36 UTC 2026)
+## Domains with Bounties (Last Updated Fri Jan 30 21:32:25 UTC 2026)
 ```
 dcfgatewaytst1.marriott.com
 prequal.swiftfinancial.com
