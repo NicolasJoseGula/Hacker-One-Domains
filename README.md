@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Fri Jan 30 09:46:44 UTC 2026)
+## Domains with Bounties (Last Updated Fri Jan 30 10:40:56 UTC 2026)
 ```
 *.bybit.com
 magiceden.io
