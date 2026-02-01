@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Sun Feb  1 08:38:35 UTC 2026)
+## Domains with Bounties (Last Updated Sun Feb  1 09:36:20 UTC 2026)
 ```
 *.rocketleague.com
 jobs.kiwi.com
