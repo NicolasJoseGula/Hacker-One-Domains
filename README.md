@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Tue Feb  3 07:01:50 UTC 2026)
+## Domains with Bounties (Last Updated Tue Feb  3 07:49:57 UTC 2026)
 ```
 visa.co.za
 *.hypermint.com
