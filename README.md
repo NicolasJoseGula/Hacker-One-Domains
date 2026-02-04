@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Wed Feb  4 18:57:50 UTC 2026)
+## Domains with Bounties (Last Updated Wed Feb  4 19:42:04 UTC 2026)
 ```
 blog.unico.io
 vimeopro.com
