@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Thu Feb  5 06:02:28 UTC 2026)
+## Domains with Bounties (Last Updated Thu Feb  5 07:13:52 UTC 2026)
 ```
 kubernetes-csi.github.io
 *.luckydays.ca
