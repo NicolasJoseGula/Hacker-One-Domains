@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Fri Feb  6 17:45:16 UTC 2026)
+## Domains with Bounties (Last Updated Fri Feb  6 18:57:52 UTC 2026)
 ```
 zerobounce.net
 academy-outbound-ads.tiktok.com
