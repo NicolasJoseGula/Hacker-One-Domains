@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Sat Feb  7 04:41:56 UTC 2026)
+## Domains with Bounties (Last Updated Sat Feb  7 05:47:39 UTC 2026)
 ```
 api2.frontapp.com
 *.spotify.net
