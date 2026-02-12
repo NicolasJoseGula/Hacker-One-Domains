@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Thu Feb 12 13:21:40 UTC 2026)
+## Domains with Bounties (Last Updated Thu Feb 12 14:52:54 UTC 2026)
 ```
 horizonchase.com.br
 https://ebctest.cybersource.com/boarding/v1/templates
