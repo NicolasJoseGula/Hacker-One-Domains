@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Thu Feb 12 17:15:12 UTC 2026)
+## Domains with Bounties (Last Updated Thu Feb 12 19:09:08 UTC 2026)
 ```
 *.superbet.pl
 wga.volans.tech
