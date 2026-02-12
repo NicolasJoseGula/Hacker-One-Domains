@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Thu Feb 12 07:12:58 UTC 2026)
+## Domains with Bounties (Last Updated Thu Feb 12 08:54:44 UTC 2026)
 ```
 *-asia-south1.truecaller.com
 waf.cumulusfire.net
