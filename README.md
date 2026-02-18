@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Wed Feb 18 20:45:43 UTC 2026)
+## Domains with Bounties (Last Updated Wed Feb 18 21:39:55 UTC 2026)
 ```
 mercadoplay.uy
 *.nflxext.com
