@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Thu Feb 19 07:55:27 UTC 2026)
+## Domains with Bounties (Last Updated Thu Feb 19 08:52:58 UTC 2026)
 ```
 www.cybersource.com
 amazonpayinsurance.in
