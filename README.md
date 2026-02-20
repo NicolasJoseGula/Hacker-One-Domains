@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Fri Feb 20 18:58:58 UTC 2026)
+## Domains with Bounties (Last Updated Fri Feb 20 19:41:35 UTC 2026)
 ```
 pricerunner.com
 wallet.web3auth.io
