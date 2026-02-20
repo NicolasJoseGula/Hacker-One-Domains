@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Fri Feb 20 02:29:40 UTC 2026)
+## Domains with Bounties (Last Updated Fri Feb 20 04:50:51 UTC 2026)
 ```
 https://www.opposhop.cn/
 rise-api.stg.inspectorio.com
