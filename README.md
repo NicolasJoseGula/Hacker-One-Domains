@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Fri Feb 20 16:50:12 UTC 2026)
+## Domains with Bounties (Last Updated Fri Feb 20 17:41:52 UTC 2026)
 ```
 template.uat.foodstorm.com
 eidhelp.marriott.com
