@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Sat Feb 21 06:50:44 UTC 2026)
+## Domains with Bounties (Last Updated Sat Feb 21 07:35:55 UTC 2026)
 ```
 mercury-qa.wnba.com
 pay-sandbox.gocardless.com
