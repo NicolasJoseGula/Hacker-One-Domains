@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Sun Feb 22 11:29:45 UTC 2026)
+## Domains with Bounties (Last Updated Sun Feb 22 12:58:55 UTC 2026)
 ```
 assets.airbnb.com
 *.amazon.ca
