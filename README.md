@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Sun Feb 22 07:39:27 UTC 2026)
+## Domains with Bounties (Last Updated Sun Feb 22 08:38:24 UTC 2026)
 ```
 www.ddfcontent.com
 *.audible.(TLD)
