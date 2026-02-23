@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Mon Feb 23 20:54:42 UTC 2026)
+## Domains with Bounties (Last Updated Mon Feb 23 21:52:34 UTC 2026)
 ```
 app.nordpass.com
 *.nflximg.net
