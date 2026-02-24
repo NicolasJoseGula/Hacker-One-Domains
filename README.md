@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Tue Feb 24 04:59:10 UTC 2026)
+## Domains with Bounties (Last Updated Tue Feb 24 06:02:51 UTC 2026)
 ```
 *.instacart.com
 www.members.marriott.com
