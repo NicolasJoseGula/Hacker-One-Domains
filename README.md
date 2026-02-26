@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Thu Feb 26 17:11:47 UTC 2026)
+## Domains with Bounties (Last Updated Thu Feb 26 18:58:59 UTC 2026)
 ```
 *.mercadopago.com.mx
 gateway.geneva-staging.com
