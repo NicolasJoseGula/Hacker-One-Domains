@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Wed Feb 25 23:36:51 UTC 2026)
+## Domains with Bounties (Last Updated Thu Feb 26 02:29:35 UTC 2026)
 ```
 yourdomain.freshservice.com
 http://vimeo.com/create
