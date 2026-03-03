@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Tue Mar  3 15:55:24 UTC 2026)
+## Domains with Bounties (Last Updated Tue Mar  3 16:56:17 UTC 2026)
 ```
 custody.coinbase.com
 *.amazon.cn
