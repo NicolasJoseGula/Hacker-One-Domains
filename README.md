@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Tue Mar  3 22:38:29 UTC 2026)
+## Domains with Bounties (Last Updated Tue Mar  3 23:33:08 UTC 2026)
 ```
 https://www.whosampled.com/
 grae.nba.com
