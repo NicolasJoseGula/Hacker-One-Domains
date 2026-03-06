@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Fri Mar  6 13:05:59 UTC 2026)
+## Domains with Bounties (Last Updated Fri Mar  6 14:41:40 UTC 2026)
 ```
 api.dyson.dk
 https://www.twilio.com/login?g=%2fconsole%3f&t=2b1c98334b25c1a785ef15b6556396290e3c704a9b57fc40687cbccd79c46a8c
