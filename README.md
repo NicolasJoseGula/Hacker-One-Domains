@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Fri Mar  6 02:27:56 UTC 2026)
+## Domains with Bounties (Last Updated Fri Mar  6 04:45:46 UTC 2026)
 ```
 content-service.bfda.live.use1a.on.epicgames.com
 *.worldcoin-distributors.com
