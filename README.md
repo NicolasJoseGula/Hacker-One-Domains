@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Sun Mar  8 13:48:10 UTC 2026)
+## Domains with Bounties (Last Updated Sun Mar  8 14:30:09 UTC 2026)
 ```
 geneva-staging.chat
 *.wavecell.com
