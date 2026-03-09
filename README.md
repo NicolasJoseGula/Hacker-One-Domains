@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Mon Mar  9 21:41:22 UTC 2026)
+## Domains with Bounties (Last Updated Mon Mar  9 22:34:37 UTC 2026)
 ```
 *.nflxext.com
 shop-id.tokopedia.com
