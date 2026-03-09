@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Mon Mar  9 17:55:01 UTC 2026)
+## Domains with Bounties (Last Updated Mon Mar  9 19:01:24 UTC 2026)
 ```
 *.venmo.com
 staking.consensys.io
