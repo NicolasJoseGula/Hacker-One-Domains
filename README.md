@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Tue Mar 10 22:36:35 UTC 2026)
+## Domains with Bounties (Last Updated Tue Mar 10 23:33:08 UTC 2026)
 ```
 https://segment.com/docs/connections/sources/
 datapod-1-100-druid-ingest.testing.forescoutcloud.net
