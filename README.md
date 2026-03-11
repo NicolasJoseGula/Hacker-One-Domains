@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Wed Mar 11 20:42:17 UTC 2026)
+## Domains with Bounties (Last Updated Wed Mar 11 21:38:45 UTC 2026)
 ```
 amazon.com/hz/mycd/*
 *.vrbo.com
