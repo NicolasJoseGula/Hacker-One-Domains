@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Fri Mar 13 22:32:52 UTC 2026)
+## Domains with Bounties (Last Updated Fri Mar 13 23:33:53 UTC 2026)
 ```
 classroom.github.com
 https://www.visa.com.az/az_az/account/registration
