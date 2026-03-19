@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Thu Mar 19 21:44:39 UTC 2026)
+## Domains with Bounties (Last Updated Thu Mar 19 22:34:58 UTC 2026)
 ```
 https://github.com/matomo-org/docker
 http://wellsfargo.com
