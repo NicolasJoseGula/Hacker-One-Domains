@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Thu Mar 19 07:54:07 UTC 2026)
+## Domains with Bounties (Last Updated Thu Mar 19 08:51:57 UTC 2026)
 ```
 addons.allizom.org
 www.flights.com
