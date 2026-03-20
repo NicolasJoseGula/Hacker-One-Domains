@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Fri Mar 20 22:37:29 UTC 2026)
+## Domains with Bounties (Last Updated Fri Mar 20 23:35:14 UTC 2026)
 ```
 https://api.bykea.net
 hackerone.com
