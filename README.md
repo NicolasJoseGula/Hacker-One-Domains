@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Sat Mar 21 09:40:15 UTC 2026)
+## Domains with Bounties (Last Updated Sat Mar 21 10:33:31 UTC 2026)
 ```
 *.github.net
 irclogs.wordpress.org
