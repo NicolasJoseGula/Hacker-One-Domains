@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Tue Mar 24 02:33:33 UTC 2026)
+## Domains with Bounties (Last Updated Tue Mar 24 04:58:01 UTC 2026)
 ```
 outlook.insightly.com
 https://ebctest.cybersource.com/prefs
