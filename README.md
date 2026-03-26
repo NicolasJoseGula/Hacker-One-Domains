@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Wed Mar 25 23:40:57 UTC 2026)
+## Domains with Bounties (Last Updated Thu Mar 26 02:44:35 UTC 2026)
 ```
 mobileapi.insightly.com
 https://ebctest.cybersource.com/prcs
