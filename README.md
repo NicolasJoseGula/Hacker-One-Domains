@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Thu Mar 26 21:39:31 UTC 2026)
+## Domains with Bounties (Last Updated Thu Mar 26 22:35:50 UTC 2026)
 ```
 www.lastminute.co.nz
 api.wordpress.org
