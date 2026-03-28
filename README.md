@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Sat Mar 28 02:34:49 UTC 2026)
+## Domains with Bounties (Last Updated Sat Mar 28 04:57:55 UTC 2026)
 ```
 https://fngw-svc-gc-livefn.ol.epicgames.net/api/magpie
 zelleservice.my.site.com
