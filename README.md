@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Sat Mar 28 18:50:11 UTC 2026)
+## Domains with Bounties (Last Updated Sat Mar 28 19:33:46 UTC 2026)
 ```
 onboarding.cloud.com
 www.logitech.com
