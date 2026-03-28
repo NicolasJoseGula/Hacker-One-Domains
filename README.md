@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Sat Mar 28 08:49:15 UTC 2026)
+## Domains with Bounties (Last Updated Sat Mar 28 09:42:38 UTC 2026)
 ```
 *.betfair.com
 all-inclusive.marriott.com
