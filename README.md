@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Wed Apr  1 23:43:38 UTC 2026)
+## Domains with Bounties (Last Updated Thu Apr  2 02:42:21 UTC 2026)
 ```
 lawmanager.marriott.com
 http://api.na1.insightly.com/v3.1/
