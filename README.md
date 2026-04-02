@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Thu Apr  2 05:10:51 UTC 2026)
+## Domains with Bounties (Last Updated Thu Apr  2 07:23:55 UTC 2026)
 ```
 learningmanagerstage4.adobe.com
 https://dbc-9a3f8ed1-7608.cloud.databricks.com
