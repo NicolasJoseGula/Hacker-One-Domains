@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Fri Apr  3 11:50:42 UTC 2026)
+## Domains with Bounties (Last Updated Fri Apr  3 13:14:16 UTC 2026)
 ```
 sockets.geneva-staging.com
 https://communities.epicgames.com
