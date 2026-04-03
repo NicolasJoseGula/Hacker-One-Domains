@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Fri Apr  3 17:42:10 UTC 2026)
+## Domains with Bounties (Last Updated Fri Apr  3 18:54:59 UTC 2026)
 ```
 https://superbet.rs
 teams.krisp.ai
