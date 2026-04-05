@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Sun Apr  5 02:54:33 UTC 2026)
+## Domains with Bounties (Last Updated Sun Apr  5 05:17:18 UTC 2026)
 ```
 partner.steamgames.com
 mail.notion.so
