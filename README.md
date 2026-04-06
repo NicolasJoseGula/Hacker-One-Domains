@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Sun Apr  5 23:41:44 UTC 2026)
+## Domains with Bounties (Last Updated Mon Apr  6 02:52:56 UTC 2026)
 ```
 intercity.indrive.com
 metahuman.unrealengine.com
