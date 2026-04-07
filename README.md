@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Tue Apr  7 02:49:26 UTC 2026)
+## Domains with Bounties (Last Updated Tue Apr  7 05:13:50 UTC 2026)
 ```
 *.expediapartnercentral.com
 ssm-marriottms.saviyntcloud.com
