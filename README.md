@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Wed Apr  8 21:48:50 UTC 2026)
+## Domains with Bounties (Last Updated Wed Apr  8 22:43:58 UTC 2026)
 ```
 auth.hhc247.org
 sso.ryadom.kz
