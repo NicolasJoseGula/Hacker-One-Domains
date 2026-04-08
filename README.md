@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Wed Apr  8 07:31:12 UTC 2026)
+## Domains with Bounties (Last Updated Wed Apr  8 09:10:18 UTC 2026)
 ```
 pricerunner.com
 mercadolivreexperience.com.br
