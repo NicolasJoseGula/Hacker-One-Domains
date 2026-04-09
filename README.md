@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Thu Apr  9 20:58:51 UTC 2026)
+## Domains with Bounties (Last Updated Thu Apr  9 21:50:54 UTC 2026)
 ```
 indrive.com
 *.elasticsearch.fr
