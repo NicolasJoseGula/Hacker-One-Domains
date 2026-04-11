@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Sat Apr 11 06:09:57 UTC 2026)
+## Domains with Bounties (Last Updated Sat Apr 11 07:53:43 UTC 2026)
 ```
 reservations.all-inclusive.marriott.com
 www.cart.starbucks.co.jp/
