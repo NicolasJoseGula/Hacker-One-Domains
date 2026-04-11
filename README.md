@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Sat Apr 11 18:52:54 UTC 2026)
+## Domains with Bounties (Last Updated Sat Apr 11 19:38:25 UTC 2026)
 ```
 www.netflix.com
 https://superbet.rs
