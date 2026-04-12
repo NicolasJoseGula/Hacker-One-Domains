@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Sun Apr 12 08:55:55 UTC 2026)
+## Domains with Bounties (Last Updated Sun Apr 12 09:52:31 UTC 2026)
 ```
 identityhomolog.acesso.io
 api.dysoncanada.ca
