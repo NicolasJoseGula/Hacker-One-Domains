@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Sun Apr 12 03:00:06 UTC 2026)
+## Domains with Bounties (Last Updated Sun Apr 12 05:29:41 UTC 2026)
 ```
 *.reddithelp.com
 *.elasticcloud.wtf
