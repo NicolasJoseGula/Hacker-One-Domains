@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Sat Apr 18 15:43:30 UTC 2026)
+## Domains with Bounties (Last Updated Sat Apr 18 16:48:57 UTC 2026)
 ```
 https://geocode-beta.bykea.net
 *.eero.com
