@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Sun Apr 19 17:42:43 UTC 2026)
+## Domains with Bounties (Last Updated Sun Apr 19 18:59:00 UTC 2026)
 ```
 *.adminml.com
 http://datapod-1-druid-query.production.forescoutcloud.net/v2/deletestatus
