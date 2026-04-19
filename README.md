@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Sat Apr 18 23:43:27 UTC 2026)
+## Domains with Bounties (Last Updated Sun Apr 19 03:21:14 UTC 2026)
 ```
 bma.bumble.com
 www.logitech.com
