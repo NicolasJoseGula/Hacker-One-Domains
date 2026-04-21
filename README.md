@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Tue Apr 21 08:03:31 UTC 2026)
+## Domains with Bounties (Last Updated Tue Apr 21 09:48:56 UTC 2026)
 ```
 meta-api.reddit.com
 joinmarriottbonvoy.com
