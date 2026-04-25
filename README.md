@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Sat Apr 25 19:00:43 UTC 2026)
+## Domains with Bounties (Last Updated Sat Apr 25 19:51:18 UTC 2026)
 ```
 www.visa.fr
 sparks-qa.wnba.com
