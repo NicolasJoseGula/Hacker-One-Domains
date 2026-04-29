@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Wed Apr 29 22:06:13 UTC 2026)
+## Domains with Bounties (Last Updated Wed Apr 29 23:58:31 UTC 2026)
 ```
 *.mercadolibre.com.ar
 https://napoleonsports.be
