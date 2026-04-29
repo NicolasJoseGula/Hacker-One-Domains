@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Wed Apr 29 09:16:32 UTC 2026)
+## Domains with Bounties (Last Updated Wed Apr 29 11:43:06 UTC 2026)
 ```
 converse.8x8.com
 *.vliegwinkel.nl
