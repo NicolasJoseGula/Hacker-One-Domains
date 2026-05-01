@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Fri May  1 20:10:10 UTC 2026)
+## Domains with Bounties (Last Updated Fri May  1 21:57:29 UTC 2026)
 ```
 grokipedia.com
 cpp.marriott.com
