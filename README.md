@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Sun May 10 20:57:10 UTC 2026)
+## Domains with Bounties (Last Updated Sun May 10 21:54:14 UTC 2026)
 ```
 cosmo.fdeb.live.use1a.on.epicgames.com
 *.quixel.com
